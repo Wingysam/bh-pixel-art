@@ -21,4 +21,3 @@ The tool works by first resizing your image to fit within the provided dimension
 Credits
 - [Skeeve](https://forums.theblockheads.net/u/skeeve) - Original idea & implementation
 - [The Blockheads Wiki](http://theblockheadswiki.com/wiki/Main_Page) - Images for pigments & paint.
-- [Bulma](https://bulma.io/) - CSS framework used for this page
